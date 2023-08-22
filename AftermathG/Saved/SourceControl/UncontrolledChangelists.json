@@ -1,0 +1,22 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/jchurch/Documents/Unreal Projects/AftermathG/AftermathG/Content/LevelPrototyping/Meshes/BarrelTNT.uasset",
+				"C:/Users/jchurch/Documents/Unreal Projects/AftermathG/AftermathG/Content/LevelPrototyping/Textures/CylinderColor1.uasset",
+				"C:/Users/jchurch/Documents/Unreal Projects/AftermathG/AftermathG/Content/LevelPrototyping/Materials/BarrelTNT.uasset",
+				"C:/Users/jchurch/Documents/Unreal Projects/AftermathG/AftermathG/Content/LevelPrototyping/Textures/Barrel3.uasset",
+				"C:/Users/jchurch/Documents/Unreal Projects/AftermathG/AftermathG/Content/LevelPrototyping/Textures/BarrelTNT.uasset",
+				"C:/Users/jchurch/Documents/Unreal Projects/AftermathG/AftermathG/Content/LevelPrototyping/Textures/Barrell2.uasset",
+				"C:/Users/jchurch/Documents/Unreal Projects/AftermathG/AftermathG/Content/LevelPrototyping/Textures/Barrel1.uasset",
+				"C:/Users/jchurch/Documents/Unreal Projects/AftermathG/AftermathG/Content/LevelPrototyping/Textures/BarrelSad.uasset",
+				"C:/Users/jchurch/Documents/Unreal Projects/AftermathG/AftermathG/Content/LevelPrototyping/Materials/Barrel2.uasset",
+				"C:/Users/jchurch/Documents/Unreal Projects/AftermathG/AftermathG/Content/LevelPrototyping/Materials/Barrel1.uasset",
+				"C:/Users/jchurch/Documents/Unreal Projects/AftermathG/AftermathG/Content/ThirdPerson/Blueprints/Barrel.uasset"
+			]
+		}
+	]
+}
